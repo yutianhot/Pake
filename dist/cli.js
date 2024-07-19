@@ -23,7 +23,7 @@ var name = "pake-cli";
 var version = "2.5.1";
 var description = "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用。";
 var engines = {
-	node: ">=16.0.0"
+	node: ">=20.0.0"
 };
 var bin = {
 	pake: "./cli.js"
